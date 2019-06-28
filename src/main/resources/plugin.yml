@@ -1,0 +1,6 @@
+name: NMSLibrary
+version: ${project.version}
+main: nmslibrary.nmslibrary.NMSLibrary
+depend: [ProtocolLib]
+authors: [XiaoZheng]
+description: Author 'Zoyn', Recasting the Author'XiaoZheng'
